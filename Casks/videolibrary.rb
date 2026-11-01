@@ -1,6 +1,6 @@
 cask "videolibrary" do
   version "26.10.4"
-  sha256 "b261019b860c9453c2d7353f5afee64013699b59c39485daedc6c52b17454eda"
+  sha256 "006d769b5d20b48d82d696b0f01c9f9d1cd39578530203972ccb46827e827fd3"
 
   url "https://github.com/Jotspot/VideoLibrary/releases/download/v#{version}/VideoLibrary.zip"
   name "VideoLibrary"
